@@ -20,7 +20,7 @@
 
 右键下载好的文件，点击全部解压缩
 
-<div align="left"><figure><img src="../.gitbook/assets/image.png" alt="" width="246"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../.gitbook/assets/image.png" alt="" width="246"><figcaption></figcaption></figure></div>
 
 点击提取即可
 
