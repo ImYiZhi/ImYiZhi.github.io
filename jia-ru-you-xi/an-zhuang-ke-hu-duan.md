@@ -16,7 +16,7 @@
 
 <sub><mark style="color:$primary;">推荐右键文件另存为到桌面<mark style="color:$primary;"></sub>
 
-4.解压文件
+4.解压文件 （你完全可以使用自己的压缩软件进行解压）
 
 右键下载好的文件，点击全部解压缩
 
