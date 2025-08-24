@@ -12,3 +12,7 @@
 
 * [创建岛屿](kai-shi-you-xi/chuang-jian-dao-yu.md)
 * [岛屿相关](kai-shi-you-xi/dao-yu-xiang-guan.md)
+
+## 玩法相关
+
+* [粘液科技](wan-fa-xiang-guan/nian-ye-ke-ji.md)
