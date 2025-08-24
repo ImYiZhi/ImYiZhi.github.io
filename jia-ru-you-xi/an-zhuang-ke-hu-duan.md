@@ -6,12 +6,22 @@
 
 2.点击群文件
 
-![](../.gitbook/assets/image.png)
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 3.下载  <mark style="color:$success;">**GOOSKY客户端.zip**</mark>
 
-&#x20;![](<../.gitbook/assets/image (1).png>)
+&#x20;
+
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <sub><mark style="color:$primary;">推荐右键文件另存为到桌面<mark style="color:$primary;"></sub>
 
-4\.
+4.解压文件
+
+右键下载好的文件，点击全部解压缩
+
+<div align="left"><figure><img src="../.gitbook/assets/image.png" alt="" width="246"><figcaption></figcaption></figure></div>
+
+点击提取即可
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
